@@ -1,4 +1,4 @@
-from complex_management import anatomize,mapping_insertion_code,reduce,FIRST,parse_HBE,filter_file,graph_HBE,organize
+from scripts.complex_management import anatomize,mapping_insertion_code,reduce,FIRST,parse_HBE,filter_file,graph_HBE,organize
 import os
 import subprocess
 directory = os.listdir()
